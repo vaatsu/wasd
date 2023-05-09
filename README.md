@@ -40,7 +40,7 @@ SETTING UP CFG FOLDER:
 	│       │   states\
 	│       │   disable.cfg\
 	│       │   help.cfg\
-	│       │   init.cfg\
+	│       │   init.cfg
 
 2) Create or modify your autoexec.cfg and include this in it:\
 	exec wasd/init.cfg
