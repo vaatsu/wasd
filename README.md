@@ -41,9 +41,9 @@ SETTING UP CFG FOLDER:
 	│       │   disable.cfg\
 	│       │   help.cfg\
 	│       │   init.cfg\
-\
+
 2) Create or modify your autoexec.cfg and include this in it:\
-	exec wasd/init.cfg\
+	exec wasd/init.cfg
 
 3) For first time setup after 'exec wasd/init.cfg' is ran (autoexec should do this) run this console command:\
 	WASD_on\
