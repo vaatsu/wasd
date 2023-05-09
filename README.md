@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=5j39jjHJaRc
+
 Instructions on how to setup WASD-clantag\
 This clantag changes your clan-tag to show what movement keys you are currently pressing. (WASD)\
 For this to work you'll need multiple cfg files and you also need to join 16 steam groups\
